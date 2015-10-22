@@ -86,7 +86,7 @@ if(isset($_COOKIE['username']) && isset($_COOKIE['password'])) {
                         }
                         else {
                    
-                            alert('Invaled login');
+                            alert('Invalid login');
                         }
                     } 
                 });
